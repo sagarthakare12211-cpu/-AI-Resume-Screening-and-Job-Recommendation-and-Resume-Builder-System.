@@ -1,0 +1,3 @@
+streamlit run screen1_resume_builder.py
+streamlit run screen2_ai_screening.py
+streamlit run screen3_job_recommendations.py
