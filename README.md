@@ -1,24 +1,53 @@
-# -AI-Resume-Screening-and-Job-Recommendation-and-Resume-Builder-System.
-AI-powered web application for resume screening, job recommendation, and resume building using Java Full Stack technologies.
-# My Project
+# AI-Powered Resume Screening and Job Recommendation System
 
-This is my Java Full Stack project.
+## 📌 Project Overview
+The AI-Powered Resume Screening and Job Recommendation System is a smart web application developed to help users build resumes, analyze resumes using AI techniques, and get job recommendations based on their skills and qualifications.
 
-## Features
-- User login system
-- Database connection
-- Simple UI
+This project simplifies the recruitment and career guidance process by automating resume screening and suggesting relevant job opportunities.
 
-## Technologies Used
-- Java
+---
+
+## 🚀 Features
+
+- Resume Builder
+- AI-Based Resume Screening
+- Job Recommendation System
+- Skill Analysis
+- User-Friendly Interface
+- CSV-Based Job Dataset Integration
+
+---
+
+## 🛠 Technologies Used
+
+### Frontend
+- Streamlit
 - HTML
 - CSS
-- MySQL
 
-## How to run
-1. Project clone/download karo
-2. VS Code open karo
-3. Run application
+### Backend
+- Python
 
-## Author
-Sagar Thakare
+### Libraries
+- Pandas
+- Streamlit
+
+### Dataset
+- jobs.csv
+
+---
+
+## 📂 Project Structure
+
+```bash
+Biradar/
+│
+├── app.py
+├── jobs.csv
+├── requirements.txt
+├── shared_css.py
+│
+├── pages/
+│   ├── screen1_resume_builder.py
+│   ├── screen2_ai_screening.py
+│   └── screen3_job_recommendations.py
