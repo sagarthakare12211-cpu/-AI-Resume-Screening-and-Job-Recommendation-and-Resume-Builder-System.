@@ -40,7 +40,7 @@ This project simplifies the recruitment and career guidance process by automatin
 ## 📂 Project Structure
 
 ```bash
-Biradar/
+sagar/
 │
 ├── app.py
 ├── jobs.csv
